@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 
 st.title("streamlit hello")
 st.write("AirBNB New York 2019 Dataset")
